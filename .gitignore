@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+*.icloud
+*.localized
+*.qlgenerator
+
+# Editor
+.vscode/
+.idea/
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
+build/
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+*~
+*.bak
+Icon?
+
+# Others
+node_modules/
+.venv/
+__pycache__/
+*.class
+target/
